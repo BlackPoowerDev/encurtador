@@ -127,9 +127,6 @@ https://racoelho.com.br/listas/desafios/encurtador-de-links
 
 ## 📸 Demonstração
 
-Você pode adicionar aqui prints do sistema funcionando.
-
-
 ## 💡 Possíveis melhorias
 
 * 📊 contador de cliques
