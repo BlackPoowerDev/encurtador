@@ -19,9 +19,7 @@ Permite transformar URLs longas em links curtos e fáceis de compartilhar.
 
 * **Node.js**
 * **Express**
-* **JavaScript**
-* **UUID ou geração de hash**
-* **JSON / Banco de dados POSTGRE**
+* **POSTGRE**
 
 ---
 
